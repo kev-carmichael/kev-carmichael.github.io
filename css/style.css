@@ -107,3 +107,12 @@ nav {
 	color: white;
 	background: #3d7140;
 }
+
+.btn-nolaunch {
+	width:100%;
+	max-width:200px;
+	background-color: #f9a825;
+	color:white;
+	box-shadow: 0px 2px 5px 1px darkgrey;
+}
+
